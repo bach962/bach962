@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bach962
-- 👀 I’m interested in testing.
+- 👀 I’m interested in databases.
 - 🌱 I’m currently learning projects.
-- 💞️ I’m looking to collaborate on testing.
+- 💞️ I’m looking to collaborate on databases.
 - 📫 How to reach me bachcullen@gmail.com...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
